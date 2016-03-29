@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\classes-66cd8c033c047b649a024684145f08abd7e3a29f.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzche_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-3155d8823d3902d25a012b637db27845b291e788.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\classes-8d1723c6407e0092ad682013d4c87b7bfc0b2826.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\classes-f0a512d8c21723ddefa5ac9afe742be2f38842d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\classes-b83b2a343600459236eddbb1d48b1162b7d50b03.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Users\yzche_000\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-260dd935c35687477925402b9db9d307561c02d8.jar" />
+    </item>
+
+</items>
