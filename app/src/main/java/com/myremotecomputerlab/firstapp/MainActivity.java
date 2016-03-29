@@ -2,6 +2,7 @@ package com.myremotecomputerlab.firstapp;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.util.Log;
@@ -11,7 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
     public void add(View view){
         int num1 = Integer.parseInt(((EditText)findViewById(R.id.number1)).getText().toString());
@@ -43,10 +44,17 @@ public class MainActivity extends ActionBarActivity {
     public void div(View view){
         double num1 = Integer.parseInt(((EditText)findViewById(R.id.number1)).getText().toString());
         double num2 = Integer.parseInt(((EditText)findViewById(R.id.number2)).getText().toString());
-        double result=num1/num2;
-        Log.i("Result", Double.toString(result));
-        TextView resultView = (TextView) findViewById(R.id.resultOutput);
-        resultView.setText(Double.toString(result));
+        if(num2!=0){
+            double result=num1/num2;
+            Log.i("Result", Double.toString(result));
+            TextView resultView = (TextView) findViewById(R.id.resultOutput);
+            resultView.setText(Double.toString(result));
+        }else{
+            Log.i("Error:", "num2 is zero");
+            TextView resultView=(TextView) findViewById(R.id.resultOutput);
+            resultView.setText("Error: num2 is zero.");
+        }
+
     }
 
     @Override

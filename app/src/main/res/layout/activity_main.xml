@@ -10,7 +10,6 @@
         android:id="@+id/hi"
         android:layout_alignParentTop="false"
         style="@style/Base.TextAppearance.AppCompat.Large"
-        android:background="#ffff0b12"
         android:minWidth="160dp"
         android:textColor="#ff8057ff"
         android:textSize="@dimen/abc_text_size_display_2_material"
